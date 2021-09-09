@@ -1,0 +1,178 @@
+body {
+    /* font-family: 'Raleway',
+        sans-serif; */
+    margin: 0%;
+}
+
+p {
+    line-height: 1.6;
+    font-family: 'Lato', sans-serif;
+}
+
+#name {
+    margin: 0;
+    padding: 1% 0%;
+    text-align: center;
+}
+
+#name h1 a {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: 'Yeseva One';
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #600097;
+    font-family: 'Raleway', sans-serif;
+}
+
+#header {
+    font-family: 'Raleway', sans-serif;
+    background-color: #bd60f3;
+}
+
+#spacer {
+    padding: 28px 0;
+    background-color: #bd60f3;
+}
+
+.button:link,
+.button:visited,
+.button {
+    background-color: #bd60f3;
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Raleway', 'sans-serif';
+}
+
+.button:hover,
+.button:active {
+    color: white;
+    background-color: #600097;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #bd60f3;
+    display: sticky;
+}
+
+#navbar li a,
+#home,
+#control {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 18;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #bd60f3;
+}
+
+#control {
+    float: left;
+}
+
+#top {
+    background-color: #bd60f3;
+}
+
+#navbar li a:hover,
+#home:hover,
+#control:hover {
+    background-color: #600097;
+}
+
+#control:hover {
+    cursor: pointer;
+}
+
+.contents {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.contents li {
+    float: left;
+}
+
+.contents li a {
+    display: block;
+    color: #600097;
+    text-align: center;
+    font-size: 18;
+    font-weight: 500;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #fff;
+}
+
+.contents li a:hover {
+    background-color: #f0e6cb;
+}
+
+#rect {
+    width: 40px;
+    height: 20px;
+}
+
+#rate,
+.project {
+    display: flex;
+}
+
+#welcome {
+    background-color: #bd60f3;
+    padding: 10% 0%;
+}
+
+#welcome h1 {
+    color: #fff;
+    font-family: 'Yeseva One';
+    font-size: 120px;
+    margin: 0;
+    text-align: center;
+    font-weight: 400;
+}
+
+#submit {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#ec,
+#honors,
+#mr,
+#t4-assembly {
+    background-color: #f0e6cb;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.minicontents {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+figure {
+    text-align: center;
+}
+
+#arrow:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,75 @@
+h1,
+h2,
+h3,
+h4,
+p,
+.t4-caption {
+    padding: 0 20%;
+}
+
+#navbar {
+    float: right;
+}
+
+#navbar li {
+    display: inline-block;
+}
+
+#home {
+    float: left;
+}
+/*
+.dropdown-menu1 {
+    display: none;
+    position: absolute;
+}
+
+.dropdown-menu1 a {
+    display: inline-block;
+}
+
+.dropdown1:hover .dropdown-menu1 {
+    display: inline-block;
+    display: flex;
+    right: 0;
+}
+*/
+#image, #desc {
+    width: 50%;
+}
+
+table {
+    padding: 0 20%;
+}
+
+td {
+    width: 40%;
+}
+
+#basicinfo {
+    display: flex;
+}
+
+#basicinfo #0 {
+    width: 50%;
+}
+
+#basicinfo #1 p {
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.t4-diagram {
+    width: 40%;
+    height: auto;
+}
+
+#arrow {
+    width: 3%;
+    height: auto;
+}
+
+#reg-form {
+    width:80%;
+}

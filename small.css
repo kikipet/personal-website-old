@@ -1,0 +1,55 @@
+h1,
+h2,
+h3,
+h4,
+p,
+.t4-caption {
+    padding: 0 1%;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #fff;
+    position: relative;
+}
+
+#home, #navbar li, .dropdown, .dropdown-menu {
+    display: none;
+}
+
+#control:hover {
+    cursor: pointer;
+}
+
+.dropdown-menu a,
+.dropdown-menu1 a {
+    float: left;
+}
+
+.dropdown:hover .dropdown-menu,
+.dropdown1:hover .dropdown-menu1 {
+    float: left;
+    right: 0;
+}
+
+.project {
+    display: block;
+}
+
+#basicinfo {
+    display: block;
+}
+
+.t4-diagram {
+    width: 60%;
+    height: auto;
+}
+
+#arrow {
+    width: 7%;
+    height: auto;
+}
+
+#reg-form {
+    width: 98%;
+}
